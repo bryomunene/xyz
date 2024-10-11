@@ -58,7 +58,7 @@ namespace xyz
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddControllersWithViews();
+            //services.AddControllersWithViews();
 
             // Register ApplicationDbContext with the DI container
             services.AddDbContext<ApplicationDbContext>(options =>

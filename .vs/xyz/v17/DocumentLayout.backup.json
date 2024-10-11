@@ -1,7 +1,60 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Apps\\project\\xyz\\xyz\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\controllers\\studentverificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:controllers\\studentverificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\models\\studentverificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:models\\studentverificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\models\\studentverificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:models\\studentverificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\migrations\\20241011132823_seedstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:migrations\\20241011132823_seedstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\xyz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:xyz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\xyz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:xyz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +87,173 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:49:42.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentVerificationController.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Controllers\\StudentVerificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentVerificationController.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Controllers\\StudentVerificationController.cs",
+              "RelativeToolTip": "Controllers\\StudentVerificationController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:33:57.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentVerificationResponse.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Models\\StudentVerificationResponse.cs",
+              "RelativeDocumentMoniker": "Models\\StudentVerificationResponse.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Models\\StudentVerificationResponse.cs",
+              "RelativeToolTip": "Models\\StudentVerificationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:32:30.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentVerificationRequest.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Models\\StudentVerificationRequest.cs",
+              "RelativeDocumentMoniker": "Models\\StudentVerificationRequest.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Models\\StudentVerificationRequest.cs",
+              "RelativeToolTip": "Models\\StudentVerificationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:31:41.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241011132823_SeedStudents.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Migrations\\20241011132823_SeedStudents.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241011132823_SeedStudents.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Migrations\\20241011132823_SeedStudents.cs",
+              "RelativeToolTip": "Migrations\\20241011132823_SeedStudents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:29:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:20:26.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:08:26.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:45:33.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T12:07:58.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "xyz",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\xyz.csproj",
+              "RelativeDocumentMoniker": "xyz.csproj",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\xyz.csproj",
+              "RelativeToolTip": "xyz.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T12:25:40.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "xyz",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\xyz.csproj",
+              "RelativeDocumentMoniker": "xyz.csproj",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\xyz.csproj",
+              "RelativeToolTip": "xyz.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T08:46:51.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-10T08:33:14.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:21:23.038Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -10,4 +10,11 @@ public class StudentVerificationRequest
 
     [Required]
     public string LastName { get; set; }
+
+    public StudentVerificationRequest(string studentId, string firstName, string lastName)
+    {
+        StudentId = studentId;
+        FirstName = firstName;
+        LastName = lastName;
+    }
 }

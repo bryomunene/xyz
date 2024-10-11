@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using xyz.Data;
 
@@ -10,9 +11,10 @@ using xyz.Data;
 namespace xyz.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241011151812_CreatePaymentsTable")]
+    partial class CreatePaymentsTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -53,7 +55,7 @@ namespace xyz.Migrations
                         {
                             Id = 1,
                             Amount = 100m,
-                            CreatedAt = new DateTime(2024, 10, 11, 15, 20, 45, 701, DateTimeKind.Utc).AddTicks(9787),
+                            CreatedAt = new DateTime(2024, 10, 11, 15, 18, 12, 706, DateTimeKind.Utc).AddTicks(8416),
                             Status = "Pending",
                             TransactionId = "trans123"
                         },
@@ -61,7 +63,7 @@ namespace xyz.Migrations
                         {
                             Id = 2,
                             Amount = 200m,
-                            CreatedAt = new DateTime(2024, 10, 11, 15, 20, 45, 701, DateTimeKind.Utc).AddTicks(9792),
+                            CreatedAt = new DateTime(2024, 10, 11, 15, 18, 12, 706, DateTimeKind.Utc).AddTicks(8428),
                             Status = "Pending",
                             TransactionId = "trans456"
                         });
@@ -102,30 +104,6 @@ namespace xyz.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("PaymentNotifications");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Amount = 100.00m,
-                            Currency = "USD",
-                            CustomerId = "cust_001",
-                            PaymentMethod = "Credit Card",
-                            Status = "Completed",
-                            Timestamp = new DateTime(2024, 10, 11, 15, 20, 45, 702, DateTimeKind.Utc).AddTicks(138),
-                            TransactionId = "txn_001"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Amount = 200.00m,
-                            Currency = "EUR",
-                            CustomerId = "cust_002",
-                            PaymentMethod = "PayPal",
-                            Status = "Pending",
-                            Timestamp = new DateTime(2024, 10, 11, 15, 20, 45, 702, DateTimeKind.Utc).AddTicks(141),
-                            TransactionId = "txn_002"
-                        });
                 });
 
             modelBuilder.Entity("xyz.Models.Student", b =>

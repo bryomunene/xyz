@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "PaymentNotificationsController",
+    "Method": "ReceiveNotification",
+    "RelativePath": "api/payment/notifications",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "notification",
+        "Type": "xyz.Models.PaymentNotification",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "xyz.Controllers.StudentVerificationController",
     "Method": "VerifyStudent",
     "RelativePath": "api/StudentVerification/verify",

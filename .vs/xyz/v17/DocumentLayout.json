@@ -98,8 +98,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T13:49:42.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T13:49:42.1Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "Controllers\\StudentVerificationController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAqwCgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T13:33:57.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T13:33:57.855Z"
             },
             {
               "$type": "Document",
@@ -124,8 +122,7 @@
               "RelativeToolTip": "Models\\StudentVerificationResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T13:32:30.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T13:32:30.863Z"
             },
             {
               "$type": "Document",
@@ -137,8 +134,7 @@
               "RelativeToolTip": "Models\\StudentVerificationRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T13:31:41.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T13:31:41.343Z"
             },
             {
               "$type": "Document",
@@ -150,8 +146,7 @@
               "RelativeToolTip": "Migrations\\20241011132823_SeedStudents.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T13:29:27.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T13:29:27.275Z"
             },
             {
               "$type": "Document",
@@ -163,8 +158,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContextFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T13:20:26.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T13:20:26.938Z"
             },
             {
               "$type": "Document",
@@ -176,8 +170,7 @@
               "RelativeToolTip": "Startup.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T12:08:26.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T12:08:26.889Z"
             },
             {
               "$type": "Document",
@@ -187,7 +180,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAqwF0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAswGEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-10-10T08:33:14.93Z",
               "EditorCaption": ""
@@ -202,8 +195,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAnwAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T08:45:33.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T08:45:33.48Z"
             },
             {
               "$type": "Document",
@@ -215,21 +207,19 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-11T12:07:58.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T12:07:58.387Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "xyz",
+              "Title": "xyz.csproj",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\xyz.csproj",
               "RelativeDocumentMoniker": "xyz.csproj",
               "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\xyz.csproj",
               "RelativeToolTip": "xyz.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T12:25:40.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T12:25:40.926Z"
             },
             {
               "$type": "Document",
@@ -240,8 +230,7 @@
               "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\xyz.csproj",
               "RelativeToolTip": "xyz.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T08:46:51.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T08:46:51.856Z"
             },
             {
               "$type": "Document",
@@ -253,8 +242,7 @@
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T08:21:23.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T08:21:23.038Z"
             }
           ]
         }

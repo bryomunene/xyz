@@ -176,7 +176,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAADcCAAAAAAAAAAAAAFACAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAHECAAAAAAAAAAAAAIwCAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-10-10T08:33:14.93Z",
               "EditorCaption": ""
@@ -215,8 +215,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T13:49:42.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T13:49:42.1Z"
             },
             {
               "$type": "Document",

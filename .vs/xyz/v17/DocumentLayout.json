@@ -7,12 +7,36 @@
       "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\controllers\\studentverificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:controllers\\studentverificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\controllers\\paymentnotificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:controllers\\paymentnotificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\models\\paymentnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:models\\paymentnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\models\\studentverificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +47,8 @@
       "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\controllers\\paymentnotificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:controllers\\paymentnotificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\controllers\\studentverificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:controllers\\studentverificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\models\\studentverificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A948D037-E188-4858-A601-364470758F95}|xyz.csproj|d:\\apps\\project\\xyz\\xyz\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,31 +110,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:18:35.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PaymentNotificationsController.cs",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Controllers\\PaymentNotificationsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PaymentNotificationsController.cs",
               "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Controllers\\PaymentNotificationsController.cs",
               "RelativeToolTip": "Controllers\\PaymentNotificationsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T14:40:39.476Z"
+              "WhenOpened": "2024-10-11T14:40:39.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "StudentVerificationResponse.cs",
-              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Models\\StudentVerificationResponse.cs",
-              "RelativeDocumentMoniker": "Models\\StudentVerificationResponse.cs",
-              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Models\\StudentVerificationResponse.cs",
-              "RelativeToolTip": "Models\\StudentVerificationResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T13:32:30.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "StudentVerificationRequest.cs",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Models\\StudentVerificationRequest.cs",
               "RelativeDocumentMoniker": "Models\\StudentVerificationRequest.cs",
@@ -138,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "20241011132823_SeedStudents.cs",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Migrations\\20241011132823_SeedStudents.cs",
               "RelativeDocumentMoniker": "Migrations\\20241011132823_SeedStudents.cs",
@@ -150,15 +160,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAE0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T12:08:26.889Z"
+              "WhenOpened": "2024-10-11T12:08:26.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -168,7 +179,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcCAAAAAAAAAAAAAFQCAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-10-10T08:33:14.93Z",
               "EditorCaption": ""
@@ -176,6 +187,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T12:07:58.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentVerificationController.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Controllers\\StudentVerificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentVerificationController.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Controllers\\StudentVerificationController.cs",
+              "RelativeToolTip": "Controllers\\StudentVerificationController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:33:57.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentVerificationResponse.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Models\\StudentVerificationResponse.cs",
+              "RelativeDocumentMoniker": "Models\\StudentVerificationResponse.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Models\\StudentVerificationResponse.cs",
+              "RelativeToolTip": "Models\\StudentVerificationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:32:30.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:19:33.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -183,24 +245,24 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAqwC0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T08:45:33.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T08:45:33.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PaymentNotification.cs",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Models\\PaymentNotification.cs",
               "RelativeDocumentMoniker": "Models\\PaymentNotification.cs",
               "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Models\\PaymentNotification.cs",
               "RelativeToolTip": "Models\\PaymentNotification.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T14:39:50.339Z"
+              "WhenOpened": "2024-10-11T14:39:50.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Payment.cs",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Models\\Payment.cs",
@@ -212,19 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StudentVerificationController.cs",
-              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Controllers\\StudentVerificationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentVerificationController.cs",
-              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\Controllers\\StudentVerificationController.cs",
-              "RelativeToolTip": "Controllers\\StudentVerificationController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwCgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T13:33:57.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -236,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ApplicationDbContextFactory.cs",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Data\\ApplicationDbContextFactory.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContextFactory.cs",
@@ -248,19 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Apps\\project\\xyz\\xyz\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-11T12:07:58.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "xyz.csproj",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\xyz.csproj",
               "RelativeDocumentMoniker": "xyz.csproj",
@@ -272,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "xyz",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\xyz.csproj",
               "RelativeDocumentMoniker": "xyz.csproj",
@@ -283,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Apps\\project\\xyz\\xyz\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",

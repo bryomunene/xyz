@@ -5,9 +5,11 @@ using System.Threading.Tasks;
 using xyz.Data;
 using xyz.Models;
 using xyz.Data;
+using Microsoft.AspNetCore.Authorization;
 
 [ApiController]
 [Route("api/payment/notifications")]
+[Authorize]
 public class PaymentNotificationsController : ControllerBase
 {
     private readonly ApplicationDbContext _context;
@@ -17,7 +19,7 @@ public class PaymentNotificationsController : ControllerBase
         _context = context;
     }
 
-    [HttpPost]
+    [HttpPost("receive-notification")]
     public async Task<IActionResult> ReceiveNotification([FromBody] PaymentNotification notification)
     {
         if (notification == null || string.IsNullOrEmpty(notification.TransactionId) || notification.Amount <= 0)
@@ -34,9 +36,15 @@ public class PaymentNotificationsController : ControllerBase
         return Ok(new { message = "Notification processed successfully" });
     }
 
-    private async Task UpdatePaymentStatus(PaymentNotification notification)
+    [HttpPost("update-payment-status")]
+    public async Task<IActionResult> UpdatePaymentStatus([FromBody] PaymentNotification notification)
     {
-        var payment = await _context.Payments
+        if (notification == null || string.IsNullOrEmpty(notification.TransactionId))
+        {
+            return BadRequest("Invalid payment notification.");
+        }
+
+        var payment = await _context.PaymentNotifications
             .FirstOrDefaultAsync(p => p.TransactionId == notification.TransactionId);
 
         if (payment != null)
@@ -45,11 +53,13 @@ public class PaymentNotificationsController : ControllerBase
             payment.Amount = notification.Amount; // Update amount if necessary
 
             await _context.SaveChangesAsync();
+            return Ok("Payment status updated successfully.");
         }
         else
         {
-            // Optionally, you could log that the payment was not found
+            // Log that the payment was not found
             Console.WriteLine($"Payment not found for TransactionId: {notification.TransactionId}");
+            return NotFound("Payment not found.");
         }
     }
 }
